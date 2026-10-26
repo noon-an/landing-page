@@ -1,0 +1,22 @@
+.background_1 {
+    background-color: #1f2937;
+}
+
+.background_2,
+.background_4 {
+    background-color: #ffffff;
+}
+
+.background_3 {
+    background-color: #e5e7eb;
+}
+
+.action,
+.button_color1 {
+    background-color: #3b82f6;
+}
+
+.button_color {
+    background-color: inherit;
+}
+
